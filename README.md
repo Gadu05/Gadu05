@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá, eu sou o Gadu 👋
+
+Eu curso Ciência da Computação no IFSP
 
  <div>
    <a href="https://github.com/Gadu05">
