@@ -1,6 +1,6 @@
-## Olá, eu sou o Gadu 👋
+## Olá 👋, eu sou o Gadu 
 
-Eu curso Ciência da Computação no IFSP
+Eu sou um programador
 
 
  <div>
