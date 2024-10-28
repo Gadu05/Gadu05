@@ -4,8 +4,12 @@
 
  <div>
    <a href="https://github.com/Gadu05">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gadu05&layout=compact&langs_count=6&theme=tokyonight"/>
-   </a>
+    <img align="center" height="180em" src= "https://github-readme-stats.vercel.app/api?username=Gadu05&count_private=true&show_icons=true&theme=tokyonight"/>
+  </a>
+  
+  <a href="https://github.com/Gadu05">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gadu05&count_private=true&layout=compact&theme=tokyonight" />
+  </a>
 </div>
 
 <!--
