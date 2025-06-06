@@ -5,6 +5,7 @@
  <div>
    <a href="https://github.com/Gadu05">
     <img align="center" height="180em" src= "https://github-readme-stats.vercel.app/api?username=Gadu05&count_private=true&show_icons=true&theme=tokyonight"/>
+    <img align="center" height="180em" src="https://github-readme-stats-n9akbg1wp-gadu05s-projects.vercel.appapi?username=Gadu05&count_private=true&show_icons=true&theme=tokyonight" />
   </a>
   
   <a href="https://github.com/Gadu05">
