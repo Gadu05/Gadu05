@@ -12,6 +12,8 @@
   </a>
 </div>
 
+[![readme-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gadu05&count_private=true&layout=compact&theme=tokyonight)](https://github.com/Gadu05)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=gadu05&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
