@@ -12,6 +12,8 @@
   </a>
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=gadu05&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Gadu05/Gadu05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
