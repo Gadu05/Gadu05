@@ -1,22 +1,17 @@
 ## Olá 👋, eu sou o Gabriel 
 
 
-
  <div>
    <a href="https://github.com/Gadu05">
-    <img align="center" height="180em" src="https://github-readme-stats-gadu05s-projects.vercel.app/api?username=Gadu05&count_private=true&show_icons=true&theme=tokyonight"/>
+    <img align="center" height="180em" src="https://gadu05-github-readme-stats.vercel.app/api?username=Gadu05&count_private=true&show_icons=true&theme=tokyonight"/>
   </a>
   
   <a href="https://github.com/Gadu05">
-    <img align="center" height="180em" src="https://github-readme-stats-gadu05s-projects.vercel.app/api/top-langs/?username=Gadu05&count_private=true&layout=compact&theme=tokyonight" />
+    <img align="center" height="180em" src="https://gadu05-github-readme-stats.vercel.app/api/top-langs/?username=Gadu05&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true" />
   </a>
+  
 </div>
 
-https://github-readme-stats-gadu05s-projects.vercel.app/
-
-[![readme-stats-top-langs](https://github-readme-stats-gadu05s-projects.vercel.app/api/?username=Gadu05&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/Gadu05)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gadu05&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Gadu05/Gadu05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
